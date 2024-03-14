@@ -1,0 +1,118 @@
+{
+    "categories": [
+        {
+            "name": "beverages",
+            "subcategory": [
+                "soda",
+                "coffee/tea",
+                "alcohol/liquor",
+                "juice"
+            ]
+        },
+        {
+            "name": "Dairy Products",
+            "subcategory": [
+                "Cheese",
+                "Milk",
+                "Yogurt"
+            ]
+        },
+        {
+            "name": "Snacks",
+            "subcategory": [
+                "Junkfoods",
+                "Sweets",
+                "Biscuits",
+                "chocolate"
+            ]
+        },
+        {
+            "name": "Canned Goods",
+            "subcategory": [
+                "Beef Loaf",
+                "Corned Beef"
+
+            ]
+        },
+        {
+            "name": "Personal Care",
+            "subcategory": [
+                "Shampoo",
+                "Bath Soap",
+                "Hand Soap"
+            ]
+        },
+        {
+            "name": "Frozen Goods",
+            "subcategory": [
+                "Meat",
+                "Fish",
+                "Hotdog"
+                
+
+            ]
+        },
+        {
+            "name": "Fresh Produce",
+            "subcategory": [
+                "Fruits",
+                "Vegetables",
+                "Herbs and Spices"
+            ]
+        },
+        {
+            "name": "Baby and Kids",
+            "subcategory": [
+                "Diaper",
+                "Tissue",
+                "Baby Wipes"
+            ]
+        },
+        {
+            "name": "Baking Goods",
+            "subcategory": [
+                "Flour",
+                "Sugar",
+                "Yeast"
+            ]
+        },
+        {
+            "name": "Condiments",
+            "subcategory": [
+                "Vinegar",
+                "Salt",
+                "Oil",
+                "Soy Sauce"
+            ]
+        },
+        {
+            "name": "Rice and Cereal",
+            "subcategory": [
+                "Oats",
+                "Whole Grains",
+                "Maize"
+            ]
+        },
+        {
+            "name": "Health and Beauty",
+            "subcategory": [
+                "Medicine",
+                "Rejuvinating",
+                "Serum"
+            ]
+        },
+        {
+            "name": "Furniture",
+            "subcategory": [
+                "Table",
+                "Chairs",
+                "Bed"
+            ]
+        }
+        
+
+        
+
+
+    ]
+}

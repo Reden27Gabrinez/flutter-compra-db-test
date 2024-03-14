@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256861758177",
+    "project_id": "compraproperty-1d357",
+    "storage_bucket": "compraproperty-1d357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256861758177:android:f5a0590c1d9a2dc6278da0",
+        "android_client_info": {
+          "package_name": "com.hgt.compra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256861758177-eqfi8ioquaehlb1iaqcr5n6hu4265rnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd1ldldXsvPSreR0_kONr3v8JXALA-xCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256861758177-eqfi8ioquaehlb1iaqcr5n6hu4265rnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
